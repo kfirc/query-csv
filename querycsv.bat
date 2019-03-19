@@ -1,0 +1,1 @@
+python querycsv.py -i table.csv -s query.sql
